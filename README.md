@@ -3,7 +3,7 @@
 
 ## I'm a fullstack developer with a strong background in education and an eye for design
 
-🌱I’m currently learning Gatsby and Next.js
+🌱 I’m currently learning Gatsby and Next.js
 
 ✅ I just achieved my **AWS Cloud Practicioner Certification** and became a Teaching Assistant at [CodeOp](https://codeop.tech)
 
