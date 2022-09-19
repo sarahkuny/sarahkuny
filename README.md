@@ -7,9 +7,7 @@
 
 ✅ I just achieved my **AWS Cloud Practicioner Certification** and became a TA at CodeOp
 
-✉️ I'd love to connect:
-
-- [LinkedIn](https://www.linkedin.com/in/sarahkuny/)
+✉️ I'd love to [connect](https://www.linkedin.com/in/sarahkuny/)
 
 😄 Pronouns: she/her
 
