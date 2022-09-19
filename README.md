@@ -5,7 +5,7 @@
 
 🌱I’m currently learning Gatsby and Next.js
 
-✅ I just achieved my **AWS Cloud Practicioner Certification** and became a TA at CodeOp
+✅ I just achieved my **AWS Cloud Practicioner Certification** and became a Teaching Assistant at [CodeOp](https://codeop.tech)
 
 ✉️ I'd love to [connect](https://www.linkedin.com/in/sarahkuny/)
 
