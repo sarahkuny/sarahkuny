@@ -1,7 +1,7 @@
 
 # Hi there 👋, I'm Sarah
 
-## I'm a fullstack developer with a strong background in education and an eye for design
+## I'm a fullstack developer with a background in education and leadership
 
 🌱 I’m currently learning Gatsby and Next.js
 
