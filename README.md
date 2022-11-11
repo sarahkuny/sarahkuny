@@ -3,9 +3,9 @@
 
 ## I'm a fullstack developer with a background in education and leadership
 
-🌱 I’m currently learning Gatsby and Next.js
+🌱 I’m currently learning Next.js
 
-✅ I just achieved my **AWS Cloud Practitioner Certification** and became a Teaching Assistant at [CodeOp](https://codeop.tech)
+✅ I recently achieved my **AWS Cloud Practitioner Certification** and became a Teaching Assistant at [CodeOp](https://codeop.tech)
 
 ✉️ I'd love to [connect](https://www.linkedin.com/in/sarahkuny/)
 
