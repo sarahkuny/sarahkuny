@@ -5,9 +5,9 @@
 
 🌎 Visit my [website](https://www.sarahkuny.com/)
 
-🌱 I’m currently learning Next.js
+🌱 I’m currently learning C# and Angular
 
-✅ I recently achieved my **AWS Cloud Practitioner Certification** and became a Teaching Assistant at [CodeOp](https://codeop.tech)
+✅ I am a Teaching Assistant at [CodeOp](https://codeop.tech)
 
 ✉️ I'd love to [connect](https://www.linkedin.com/in/sarahkuny/)
 
